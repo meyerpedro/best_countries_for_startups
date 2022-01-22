@@ -20,7 +20,7 @@ https://public.tableau.com/app/profile/pedro.meyer/viz/EDA_MostimprovedDash/EDA
 2. Analysis_Most Improved Dash:<p>
 https://public.tableau.com/app/profile/pedro.meyer/viz/MostImprovedDash/Dashboard3
 
-## 3. Edploratory Analysis
+## 3. Exploratory Analysis
 
 After cleaning and arranging the dataset, the data was ready for the exploration analysis. The first question was what countries were the best ranked in hosting Start Up companies. The United States stands out as a outlier. Within the cities, San Francisco has the highest score, with over 219 points from the second place. The average score for high income countries is aproximately 52 points higher than the second highest average, however, by excluding the United States, that difference is only of aproximately 8 points. Something to take in consideration is that there are only 100 countries represented in the dataset and they are mostly high income countries.<p>
 
